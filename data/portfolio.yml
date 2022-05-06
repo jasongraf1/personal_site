@@ -19,7 +19,7 @@ portfolioitems:
       - name: Introduction to Random Forests
         image: '/images/portfolio/rand_forest1.png'
         linktext: "Go to tutorial"
-        link: https://gohugo.io/
+        link: "/tutorials/tutorial_random_forests.html"
         description: 'An introduction to random forest models in R. This covers the basics of how random forests work and how to get started using them with R.'
         status: 'Finished'
         start: '2019'
