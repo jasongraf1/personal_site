@@ -1,0 +1,114 @@
+portfolioitems:
+  # portfolio category
+  - title: Tree & forest models in R
+    portfolioitem:
+      - name: Introduction to  Classification and Regression Trees (CARTs)
+        image: '/images/portfolio/tree_terms.png'
+        link: https://gohugo.io/
+        linktext: 'Go to tutorial'
+        description: 'An introduction to using classification and regression trees in R. This covers the basics of how these models work and how to get started using them with R.'
+        tags:
+          - modeling
+          - trees&forests
+          - R
+        status: 'Finished'
+        start: '2019'
+        end: '2022'
+        #authors:
+        #  - j.grafmiller
+      - name: Introduction to Random Forests
+        image: '/images/portfolio/rand_forest1.png'
+        linktext: "Go to tutorial"
+        link: https://gohugo.io/
+        description: 'An introduction to random forest models in R. This covers the basics of how random forests work and how to get started using them with R.'
+        status: 'Finished'
+        start: '2019'
+        end: '2022'
+        tags:
+          - modeling
+          - trees&forests
+          - R
+      - name: Advanced methods with Random Forests
+        image: '/images/portfolio/rand_forest2.png'
+        link: https://gohugo.io/
+        linktext: "Go to tutorial"
+        status: 'Finished'
+        start: '2021'
+        end: '2022'
+        description: 'In this second RF tutorial I go over how to optimize random forest models in R using the {tidymodels} package. We also look at various methods for interpreting and explaining these models.'
+        tags:
+          - modeling
+          - trees&forests
+          - R
+          - tidy
+  - title: Webscraping in R
+    portfolioitem:
+      - name: Webscraping, what is it?
+        link: https://gohugo.io/
+        linktext: "Go to tutorial"
+        status: 'Finished'
+        start: '2021'
+        end: '2022'
+        description: 'An introduction to webscraping in R. This covers the basics of how to use CSS selectors and the very cool {rvest} package in R to get data from the web.'
+        tags:
+          - datacollection
+          - R
+          - tidy
+      - name: Using APIs
+        link: https://gohugo.io/
+        linktext: "Go to tutorial"
+        status: 'Finished'
+        start: '2021'
+        end: '2022'
+        description: 'In this second Webscraping tutorial I go over how to use different packages to request data from public APIs such as those for Twitter, Reddit, Yelp, and other sites.'
+        tags:
+          - datacollection
+          - R
+          - tidy
+  - title: Basic NLP with Python and spaCy
+    portfolioitem:
+      - name: Introducing spaCy
+        link: https://gohugo.io/
+        linktext: "Go to tutorial"
+        status: 'Under construction'
+        start: '2021'
+        end: '2022'
+        description: 'An introduction to the excellent {spaCy} module for natural language processing in Python. This covers the basics of how to create spaCy objects, how they are structured, and how to get basic information from them, e.g. lemmas, POS tags, and dependency relations. Note this tutorial focuses on English only.'
+        tags:
+          - NLP
+          - python
+          - spacy
+      - name: Working with dependency parses
+        link: https://gohugo.io/
+        linktext: "Go to tutorial"
+        status: 'Under construction'
+        start: '2021'
+        end: '2022'
+        description: 'In this second tutorial I explore how spaCy parses English. I focus in particular on a few particularly challenging phenomen to illustrate some of the benefits and challenges of using spaCy for extracting natural language data.'
+        tags:
+          - NLP
+          - python
+          - spacy
+  # portfolio category
+  # - title: Research
+  #   portfolioitem:
+  #     - name: Project 1
+  #       image: '/images/portfolio/code.jpg'
+  #       description: 'This project does not have a link attribute'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 2
+  #       image: '/images/portfolio/code.jpg'
+  #       link: https://gohugo.io/
+  #       description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
+  #     - name: Project 3
+  #       image: '/images/portfolio/code.jpg'
+  #       link: https://gohugo.io/
+  #       description: 'A description'
+  #       tags:
+  #         - Tag 1
+  #         - Tag 2
