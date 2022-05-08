@@ -4,7 +4,7 @@ portfolioitems:
     portfolioitem:
       - name: Introduction to  Classification and Regression Trees (CARTs)
         image: '/images/portfolio/tree_terms.png'
-        link: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
+        link: https://jasongraf1.github.io/tutorials/tutorial_carts_ctrees.html
         linktext: 'Go to tutorial'
         description: 'An introduction to using classification and regression trees in R. This covers the basics of how these models work and how to get started using them with R.'
         tags:
