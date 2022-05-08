@@ -17,9 +17,9 @@ portfolioitems:
         #authors:
         #  - j.grafmiller
       - name: Introduction to Random Forests
-        image: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
+        image: '/images/portfolio/rand_forest1.png'
         linktext: "Go to tutorial"
-        link: "/tutorials/tutorial_random_forests.html"
+        link: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
         description: 'An introduction to random forest models in R. This covers the basics of how random forests work and how to get started using them with R.'
         status: 'Finished'
         start: '2019'
@@ -29,8 +29,8 @@ portfolioitems:
           - trees&forests
           - R
       - name: Advanced methods with Random Forests
-        image: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
-        link: https://gohugo.io/
+        image: '/images/portfolio/rand_forest2.png'
+        link: "/tutorials/tutorial_random_forests.html"
         linktext: "Go to tutorial"
         status: 'Finished'
         start: '2021'
