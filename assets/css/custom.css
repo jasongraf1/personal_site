@@ -25,3 +25,7 @@ div.post__content > h3 > a {
 .archive__heading {
   font-family: 'Roboto Slab', serif;
 }
+
+div.sidebar__introduction-title > a {
+  font-family: 'Roboto Slab', serif;
+}
