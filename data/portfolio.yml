@@ -4,7 +4,7 @@ portfolioitems:
     portfolioitem:
       - name: Introduction to  Classification and Regression Trees (CARTs)
         image: '/images/portfolio/tree_terms.png'
-        link: https://gohugo.io/
+        link: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
         linktext: 'Go to tutorial'
         description: 'An introduction to using classification and regression trees in R. This covers the basics of how these models work and how to get started using them with R.'
         tags:
@@ -17,7 +17,7 @@ portfolioitems:
         #authors:
         #  - j.grafmiller
       - name: Introduction to Random Forests
-        image: '/images/portfolio/rand_forest1.png'
+        image: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
         linktext: "Go to tutorial"
         link: "/tutorials/tutorial_random_forests.html"
         description: 'An introduction to random forest models in R. This covers the basics of how random forests work and how to get started using them with R.'
@@ -29,7 +29,7 @@ portfolioitems:
           - trees&forests
           - R
       - name: Advanced methods with Random Forests
-        image: '/images/portfolio/rand_forest2.png'
+        image: https://jasongraf1.github.io/tutorials/tutorial_random_forests.html
         link: https://gohugo.io/
         linktext: "Go to tutorial"
         status: 'Finished'
