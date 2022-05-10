@@ -44,7 +44,7 @@ portfolioitems:
   - title: Webscraping in R
     portfolioitem:
       - name: Webscraping, what is it?
-        link: https://gohugo.io/
+        link: /tutorials/tutorial_webscraping_with_R_part1.html
         linktext: "Go to tutorial"
         status: 'Finished'
         start: '2021'
@@ -55,7 +55,7 @@ portfolioitems:
           - R
           - tidy
       - name: Using APIs
-        link: https://gohugo.io/
+        link: /tutorials/tutorial_webscraping_with_R_part2.html
         linktext: "Go to tutorial"
         status: 'Finished'
         start: '2021'
@@ -68,7 +68,7 @@ portfolioitems:
   - title: Basic NLP with Python and spaCy
     portfolioitem:
       - name: Introducing spaCy
-        link: https://gohugo.io/
+        link: /tutorials/tutorial_spacy_part1.html
         linktext: "Go to tutorial"
         status: 'Under construction'
         start: '2021'
@@ -79,7 +79,7 @@ portfolioitems:
           - python
           - spacy
       - name: Working with dependency parses
-        link: https://gohugo.io/
+        link: /tutorials/tutorial_spacy_part2.html
         linktext: "Go to tutorial"
         status: 'Under construction'
         start: '2021'
