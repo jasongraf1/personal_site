@@ -32,7 +32,7 @@ portfolioitems:
         image: '/images/portfolio/rand_forest2.png'
         link: /tutorials/tutorial_tidy_forests.html
         linktext: "Go to tutorial"
-        status: 'Finished'
+        status: 'Under construction'
         start: '2021'
         end: '2022'
         description: 'In this second RF tutorial I go over how to optimize random forest models in R using the {tidymodels} package. We also look at various methods for interpreting and explaining these models.'
