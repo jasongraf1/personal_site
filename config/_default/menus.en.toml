@@ -11,22 +11,16 @@
   url = "/publications/"
 
   [[main]]
-  name = "Tutorials"
-  weight = 400
-  identifier = "tutorials"
-  url = "/portfolio/"
-
-  [[main]]
   name = "Teaching"
   weight = 300
   identifier = "teaching"
   url = "/teaching/"
 
   [[main]]
-  name = "Contact"
-  weight = 600
-  identifier = "contact"
-  url = "/contact/"
+  name = "Tutorials"
+  weight = 400
+  identifier = "tutorials"
+  url = "/portfolio/"
 
   [[footer]]
   name = "imprint"
