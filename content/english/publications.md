@@ -19,6 +19,13 @@ div.post__content a {
 }
 </style>
 
+- Szmrecsanyi, Benedikt & Jason Grafmiller. Forthcoming. *Comparative variation analysis: grammatical alternations in World Englishes*. Cambridge: Cambridge University Press. 
+- Sönning, Lukas & Jason Grafmiller. In review. Seeing the wood for the trees: predictive margins for random forests. *PsyArXiv*. <https://doi.org/10.31234/osf.io/jr8yk>.
+- Grafmiller, Jason. To Appear. Visualizing grammatical similarities in comparative variationist analysis. Studies in Variation, Contacts and Change in English. *Variation, Contacts and Change in English (VARIENG)*, 22. <https://varieng.helsinki.fi/series/volumes/22new/grafmiller/>.
+- Grafmiller, Jason 2022. {VADIS}: Variation-Based Distance & Similarity Modeling. R
+  package version 0.5.0. <https://github.com/jasongraf1/VADIS>.
+- Grafmiller, Jason and Lukas Sönning. 2022. {predictiveMargins}: Predictive margins for random forests. R package version 0.4.2. <https://github.com/jasongraf1/predictiveMargins>.
+- Engel, Alexandra, Jason Grafmiller, Laura Rosseel & Benedikt Szmrecsanyi. 2022. Assessing the complexity of lectal competence: the register-specificity of the dative alternation after GIVE. *Cognitive Linguistics*. <https://doi.org/10.1515/cog-2021-0107>.
 - Engel, Alexandra, Jason Grafmiller, Laura Rosseel, Benedikt Szmrecsanyi & Freek Van de Velde. 2021. How register-specific is probabilistic grammatical knowledge? A programmatic sketch and a case study on the dative alternation with give. In Elena Seoane & Douglas Biber (eds.), *Corpus-based approaches to register variation*, 51–84. Amsterdam; Philadelphia: John Benjamins. [[OSF repo]](https://osf.io/bzcvn/) [[PDF]]()
 - Szmrecsanyi, Benedikt, Jason Grafmiller & Laura Rosseel. 2019. Variation-Based Distance and Similarity Modeling: A Case Study in World Englishes. *Frontiers in Artificial Intelligence* 2. https://doi.org/10.3389/frai.2019.00023. [[OSF repo]](https://osf.io/3gfqn/)
 - Tamaredo, Iván, Melanie Röthlisberger, Jason Grafmiller & Benedikt Heller. 2019. Probabilistic indigenization effects at the lexis–syntax interface. *English Language & Linguistics* 24(2). 1–28. https://doi.org/10.1017/S1360674319000133. [[OSF repo]](https://osf.io/zv2bc/)
