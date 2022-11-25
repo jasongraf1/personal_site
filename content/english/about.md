@@ -5,7 +5,7 @@ description: ""
 title: "About me"
 ---
 
-I am a assistant professor in corpus-based sociolinguistics in the [English Language & Linguistics Department]() at the University of Birmingham. My research aims to better understand the nature of grammatical variation in the context of natural language use, both within and across language varieties. Prior to coming to Birmingham, I was a postdoctoral fellow in the [Quantitative Lexicology and Variational Linguistics](http://wwwling.arts.kuleuven.be/qlvl/) research unit at the University of Leuven (KU Leuven), Belgium. 
+I am an assistant professor in corpus-based sociolinguistics in the [English Language & Linguistics Department]() at the University of Birmingham. My research aims to better understand the nature of grammatical variation in the context of natural language use, both within and across language varieties. Prior to coming to Birmingham, I was a postdoctoral fellow in the [Quantitative Lexicology and Variational Linguistics](http://wwwling.arts.kuleuven.be/qlvl/) research unit at the University of Leuven (KU Leuven), Belgium. 
 
 
 <table>
