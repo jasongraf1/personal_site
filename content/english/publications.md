@@ -19,9 +19,9 @@ div.post__content a {
 }
 </style>
 
-- Szmrecsanyi, Benedikt & Jason Grafmiller. Forthcoming. *Comparative variation analysis: grammatical alternations in World Englishes*. Cambridge: Cambridge University Press. [**OSF**: <https://osf.io/3gfqn/>]
-- Sönning, Lukas & Jason Grafmiller. In review. Seeing the wood for the trees: predictive margins for random forests. *PsyArXiv*. <https://doi.org/10.31234/osf.io/jr8yk>. [**OSF**: <https://osf.io/4tuv2/>]
-- Grafmiller, Jason. To Appear. Visualizing grammatical similarities in comparative variationist analysis. Studies in Variation, Contacts and Change in English. *Variation, Contacts and Change in English (VARIENG)*, 22. <https://varieng.helsinki.fi/series/volumes/22new/grafmiller/>. [**OSF**: <https://osf.io/2q4vm/>]
+- Szmrecsanyi, Benedikt & Jason Grafmiller. 2023. *Comparative variation analysis: grammatical alternations in World Englishes*. Cambridge: Cambridge University Press. [**OSF**: <https://osf.io/3gfqn/>]
+- Sönning, Lukas & Jason Grafmiller.2023. Seeing the wood for the trees: predictive margins for random forests. *PsyArXiv*. <https://doi.org/10.31234/osf.io/jr8yk>. [**OSF**: <https://osf.io/4tuv2/>]
+- Grafmiller, Jason. 2022. Visualizing grammatical similarities in comparative variationist analysis. Studies in Variation, Contacts and Change in English. *Variation, Contacts and Change in English (VARIENG)*, 22. <https://varieng.helsinki.fi/series/volumes/22new/grafmiller/>. [**OSF**: <https://osf.io/2q4vm/>]
 - Grafmiller, Jason 2022. {VADIS}: Variation-Based Distance & Similarity Modeling. R
   package version 0.5.0. <https://github.com/jasongraf1/VADIS>.
 - Grafmiller, Jason and Lukas Sönning. 2022. {predictiveMargins}: Predictive margins for random forests. R package version 0.4.2. <https://github.com/jasongraf1/predictiveMargins>.
