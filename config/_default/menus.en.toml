@@ -22,6 +22,13 @@
   identifier = "tutorials"
   url = "/portfolio/"
 
+  [[main]]
+  name = "CV"
+  weight = 500
+  identifier = "tutorials"
+  url = "/pdfs/Grafmiller_CV.pdf"
+
+
   [[footer]]
   name = "imprint"
   weight = 1
