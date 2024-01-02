@@ -19,11 +19,12 @@ div.post__content a {
 }
 </style>
 
+- Dubois, Tanguy, Jason Grafmiller, Magali Paquot & Benedikt Szmrecsanyi. 2023. Animacy effects in the English genitive alternation: comparing native speakers and EFL learner judgments with corpus data. *Language and Cognition*. 1–23. <https://doi.org/10.1017/langcog.2023.51>. 
 - Szmrecsanyi, Benedikt & Jason Grafmiller. 2023. *Comparative variation analysis: grammatical alternations in World Englishes*. Cambridge: Cambridge University Press. [**OSF**: <https://osf.io/3gfqn/>]
-- Sönning, Lukas & Jason Grafmiller.2023. Seeing the wood for the trees: predictive margins for random forests. *PsyArXiv*. <https://doi.org/10.31234/osf.io/jr8yk>. [**OSF**: <https://osf.io/4tuv2/>]
+- Grafmiller, Jason 2023. {VADIS}: Variation-Based Distance & Similarity Modeling. R
+  package version 1.0. <https://github.com/jasongraf1/VADIS>.
+- Sönning, Lukas & Jason Grafmiller. 2023. Seeing the wood for the trees: predictive margins for random forests. *Corpus Linguistics and Linguistic Theory*. Online AoP. <https://doi.org/10.1515/cllt-2022-0083>. [Preprint: <https://doi.org/10.31234/osf.io/jr8yk>; **OSF**: <https://osf.io/4tuv2/>]
 - Grafmiller, Jason. 2022. Visualizing grammatical similarities in comparative variationist analysis. Studies in Variation, Contacts and Change in English. *Variation, Contacts and Change in English (VARIENG)*, 22. <https://varieng.helsinki.fi/series/volumes/22new/grafmiller/>. [**OSF**: <https://osf.io/2q4vm/>]
-- Grafmiller, Jason 2022. {VADIS}: Variation-Based Distance & Similarity Modeling. R
-  package version 0.5.0. <https://github.com/jasongraf1/VADIS>.
 - Grafmiller, Jason and Lukas Sönning. 2022. {predictiveMargins}: Predictive margins for random forests. R package version 0.4.2. <https://github.com/jasongraf1/predictiveMargins>.
 - Engel, Alexandra, Jason Grafmiller, Laura Rosseel & Benedikt Szmrecsanyi. 2022. Assessing the complexity of lectal competence: the register-specificity of the dative alternation after GIVE. *Cognitive Linguistics*. <https://doi.org/10.1515/cog-2021-0107>. 
 - Engel, Alexandra, Jason Grafmiller, Laura Rosseel, Benedikt Szmrecsanyi & Freek Van de Velde. 2021. How register-specific is probabilistic grammatical knowledge? A programmatic sketch and a case study on the dative alternation with give. In Elena Seoane & Douglas Biber (eds.), *Corpus-based approaches to register variation*, 51–84. Amsterdam; Philadelphia: John Benjamins. [**OSF**: <https://osf.io/bzcvn/>] [[PDF]]()
