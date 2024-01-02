@@ -3,8 +3,6 @@ author: Jason Grafmiller
 date: "2019-02-28"
 ---
 
-# About me
-
 I am an assistant professor in corpus-based sociolinguistics in the [English Language & Linguistics Department](https://www.birmingham.ac.uk/schools/edacs/departments/englishlanguage/index.aspx) at the University of Birmingham. My research aims to better understand the nature of grammatical variation in the context of natural language use, both within and across language varieties. Prior to coming to Birmingham, I was a postdoctoral fellow in the [Quantitative Lexicology and Variational Linguistics](http://wwwling.arts.kuleuven.be/qlvl/) research unit at the University of Leuven (KU Leuven), Belgium. 
 
 ## Research interests
@@ -17,7 +15,7 @@ I am an assistant professor in corpus-based sociolinguistics in the [English Lan
 
 ## Education
 
-- PhD in Linguistics, 2013. Stanford University
+- PhD in Linguistics, 2013. Stanford University [[Thesis]](/pdfs/Grafmiller_thesis.pdf)
 - BA in Linguistics, 2006. The Ohio State University
 
 <!--
